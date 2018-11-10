@@ -1,0 +1,144 @@
+
+
+void inseriractor(Companhia *ptr, int *a, int cont_act){
+
+
+
+
+    cout<<"-------------------------------------------------------"<<endl;
+    cout<<"Nome do Actor: "<<endl;
+    cin.clear();
+    cin.sync();
+    cin.getline(ptr->Act[*a].nome, sizeof(ptr->Act[*a].nome));
+
+
+
+    cout<<"Idade do Actor:"<<endl;
+    cin.clear();
+    cin.sync();
+    cin>>ptr->Act[*a].Idade;
+
+
+
+    cout<<"Salario do  Actor: "<<endl;
+    cin.clear();
+    cin.sync();
+    cin>>ptr->Act[*a].salario;
+
+
+
+
+
+    cout<<"Numero actor: "<<*a<<endl;
+
+    ptr->Act[*a].num_act=+1;
+
+
+
+    *a=*a+1; //Incrementa a variavel global
+
+}
+
+
+void listaractor(Companhia *ptr, int a){
+
+cin.clear();
+cin.sync();
+
+	for (int i=0; i<a;i++){
+
+
+
+
+           cout <<"---------Actor numero "<<i<<"---------------------------------"<<endl;
+
+            cout<<"Nome do actor: "<<ptr->Act[i].nome<<endl;
+
+            cout<<"Idade do Actor: "<< ptr->Act[i].Idade<<endl;
+
+            cout<<"Salario do Actor: " <<ptr->Act[i].salario<<endl;
+
+            cout<<"-------------------------------------------------------------------------------"<<endl;
+
+
+
+
+            ptr++;
+
+
+	}
+
+	system ("PAUSE");
+
+
+}
+
+void inserirespetaculo(Espetaculo *ptr2, int *contespetaculos){
+
+
+        cout<<"Nome do espetaculo: "<<endl;
+        cin.clear();
+        cin.sync();
+        cin.getline(ptr2->nomeesp, sizeof(ptr2->nomeesp));
+
+
+        cout<<"Nome do Encenador: "<<endl;
+        cin.clear();
+        cin.sync();
+        cin.getline(ptr2->nomeEncenador, sizeof(ptr2->nomeEncenador));
+
+        //data
+
+        cout<<"Preco Bilhetes"<<endl;
+        cin>>ptr2->precobilhete;
+
+        cout<<"Numero de lugares"<<endl;
+        cin>>ptr2->nlugares;
+
+        cout<<"Budget"<<endl;
+        cin>>ptr2->budget;
+
+    *contespetaculos++;
+
+}
+/*
+void listarespetaculo(){
+
+}
+*/
+void  procurar(Companhia *ptr, int *a/*,int idtemp*/){
+
+int idtemp=0;
+    cout<<"escolhe porra"<<endl;
+    cin>>idtemp;
+
+	for (int i=0; i<*a; i++)
+        {
+          //  for(int b=0; b<100;b++)
+           //     {
+
+
+                    if ( ptr->Act[a].num_act ==  idtemp)
+                        {
+                            cout<<"existe"<<endl;
+                            break;
+                           // return i;
+                        }
+             //   }
+
+
+
+        ptr++;
+
+		}
+
+
+	//return -1;
+
+}
+/*
+void apagar(){
+
+}
+
+*/

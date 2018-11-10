@@ -1,0 +1,501 @@
+# depslib dependency file v1.0
+1522431710 source:d:\gdrive\c++\projecto teatro cmais\projectoteatro beta 2\main.cpp
+	"liga.h"
+
+1522431159 d:\gdrive\c++\projecto teatro cmais\projectoteatro beta 2\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1522431207 d:\gdrive\c++\projecto teatro cmais\projectoteatro beta 2\funcoes.h
+
+1522431693 d:\gdrive\c++\projecto teatro cmais\projectoteatro beta 2\menuprincipal.h
+
+1522431710 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 2\main.cpp
+	"liga.h"
+
+1522861093 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 2\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1522861485 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 2\funcoes.h
+
+1522861076 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 2\menuprincipal.h
+
+1522431710 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 3\main.cpp
+	"liga.h"
+
+1522861093 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 3\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1522864521 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 3\funcoes.h
+
+1522864521 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 3\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 3\main.cpp
+	"liga.h"
+
+1523327299 c:\users\hugo\desktop\projectoteatro beta 3\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523327603 c:\users\hugo\desktop\projectoteatro beta 3\funcoes.h
+
+1523327481 c:\users\hugo\desktop\projectoteatro beta 3\menuprincipal.h
+
+1522431710 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro_beta_4\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523468283 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro_beta_4\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523474251 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro_beta_4\projectoteatro beta 4\funcoes.h
+
+1523474251 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro_beta_4\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523585378 c:\users\hugo\desktop\projectoteatro beta 4\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523585755 c:\users\hugo\desktop\projectoteatro beta 4\projectoteatro beta 4\funcoes.h
+
+1523585924 c:\users\hugo\desktop\projectoteatro beta 4\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4.1\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523585378 c:\users\hugo\desktop\projectoteatro beta 4.1\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523591303 c:\users\hugo\desktop\projectoteatro beta 4.1\projectoteatro beta 4\funcoes.h
+
+1523589941 c:\users\hugo\desktop\projectoteatro beta 4.1\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4.1.1\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523585378 c:\users\hugo\desktop\projectoteatro beta 4.1.1\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523628169 c:\users\hugo\desktop\projectoteatro beta 4.1.1\projectoteatro beta 4\funcoes.h
+
+1523589941 c:\users\hugo\desktop\projectoteatro beta 4.1.1\projectoteatro beta 4\menuprincipal.h
+
+1522428110 source:c:\users\trainee\desktop\projectoteatro beta 4.1.2\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523581778 c:\users\trainee\desktop\projectoteatro beta 4.1.2\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523656574 c:\users\trainee\desktop\projectoteatro beta 4.1.2\projectoteatro beta 4\funcoes.h
+
+1523653827 c:\users\trainee\desktop\projectoteatro beta 4.1.2\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4.1.3\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523585378 c:\users\hugo\desktop\projectoteatro beta 4.1.3\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523669421 c:\users\hugo\desktop\projectoteatro beta 4.1.3\projectoteatro beta 4\funcoes.h
+
+1523657427 c:\users\hugo\desktop\projectoteatro beta 4.1.3\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4.1.4\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523720206 c:\users\hugo\desktop\projectoteatro beta 4.1.4\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523731310 c:\users\hugo\desktop\projectoteatro beta 4.1.4\projectoteatro beta 4\funcoes.h
+
+1523729851 c:\users\hugo\desktop\projectoteatro beta 4.1.4\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4.1.4.bola\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523760879 c:\users\hugo\desktop\projectoteatro beta 4.1.4.bola\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523842857 c:\users\hugo\desktop\projectoteatro beta 4.1.4.bola\projectoteatro beta 4\funcoes.h
+
+1523732136 c:\users\hugo\desktop\projectoteatro beta 4.1.4.bola\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\projectoteatro beta 4.1.4.bolas\projectoteatro beta 4\main.cpp
+	"liga.h"
+
+1523843375 c:\users\hugo\desktop\projectoteatro beta 4.1.4.bolas\projectoteatro beta 4\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523843542 c:\users\hugo\desktop\projectoteatro beta 4.1.4.bolas\projectoteatro beta 4\funcoes.h
+
+1523732136 c:\users\hugo\desktop\projectoteatro beta 4.1.4.bolas\projectoteatro beta 4\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\exper_teatro\projectoteatro beta 4_exp\main.cpp
+	"liga.h"
+
+1523929956 c:\users\hugo\desktop\exper_teatro\projectoteatro beta 4_exp\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1523939131 c:\users\hugo\desktop\exper_teatro\projectoteatro beta 4_exp\funcoes.h
+
+1523732136 c:\users\hugo\desktop\exper_teatro\projectoteatro beta 4_exp\menuprincipal.h
+
+1522431710 source:c:\users\hugo\desktop\esxp2_teatro\projectoteatro beta 4_exp2\main.cpp
+	"liga.h"
+
+1524017888 c:\users\hugo\desktop\esxp2_teatro\projectoteatro beta 4_exp2\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1524019154 c:\users\hugo\desktop\esxp2_teatro\projectoteatro beta 4_exp2\funcoes.h
+
+1524017867 c:\users\hugo\desktop\esxp2_teatro\projectoteatro beta 4_exp2\menuprincipal.h
+
+1524149644 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 7\main.cpp
+	"liga.h"
+
+1524226523 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 7\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1524503614 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 7\funcoes.h
+
+1524502672 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 7\menuprincipal.h
+
+1524149644 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8\main.cpp
+	"liga.h"
+
+1524742589 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1524743793 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8\funcoes.h
+
+1524743381 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8\menuprincipal.h
+
+1524149644 source:c:\users\hugo\desktop\projectoteatro beta 8\main.cpp
+	"liga.h"
+
+1525129651 c:\users\hugo\desktop\projectoteatro beta 8\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525130093 c:\users\hugo\desktop\projectoteatro beta 8\funcoes.h
+
+1524743381 c:\users\hugo\desktop\projectoteatro beta 8\menuprincipal.h
+
+1524149644 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8.1\main.cpp
+	"liga.h"
+
+1525129651 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8.1\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525278416 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8.1\funcoes.h
+
+1524743381 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 8.1\menuprincipal.h
+
+1524149644 source:c:\users\hugo\desktop\projectoteatro beta 8.1\main.cpp
+	"liga.h"
+
+1525129651 c:\users\hugo\desktop\projectoteatro beta 8.1\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525314713 c:\users\hugo\desktop\projectoteatro beta 8.1\funcoes.h
+
+1525314280 c:\users\hugo\desktop\projectoteatro beta 8.1\menuprincipal.h
+
+1524149644 source:c:\users\hugo\desktop\projectoteatro beta 8.1._remove\main.cpp
+	"liga.h"
+
+1525129651 c:\users\hugo\desktop\projectoteatro beta 8.1._remove\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525323719 c:\users\hugo\desktop\projectoteatro beta 8.1._remove\funcoes.h
+
+1525314280 c:\users\hugo\desktop\projectoteatro beta 8.1._remove\menuprincipal.h
+
+1524146044 source:c:\users\userpl135pc14\desktop\projectoteatro beta 8.1._remove\main.cpp
+	"liga.h"
+
+1525364523 c:\users\userpl135pc14\desktop\projectoteatro beta 8.1._remove\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525369000 c:\users\userpl135pc14\desktop\projectoteatro beta 8.1._remove\funcoes.h
+
+1525310680 c:\users\userpl135pc14\desktop\projectoteatro beta 8.1._remove\menuprincipal.h
+
+1524149646 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 12\main.cpp
+	"liga.h"
+
+1525373876 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 12\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525386106 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 12\funcoes.h
+
+1525314282 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 12\menuprincipal.h
+
+1524149646 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 13\projectoteatro beta 13\main.cpp
+	"liga.h"
+
+1525373876 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 13\projectoteatro beta 13\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525387835 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 13\projectoteatro beta 13\funcoes.h
+
+1525314282 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 13\projectoteatro beta 13\menuprincipal.h
+
+1524149646 source:c:\users\hugo\desktop\projectoteatro beta 13.1\main.cpp
+	"liga.h"
+
+1525373876 c:\users\hugo\desktop\projectoteatro beta 13.1\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525398350 c:\users\hugo\desktop\projectoteatro beta 13.1\funcoes.h
+
+1525314282 c:\users\hugo\desktop\projectoteatro beta 13.1\menuprincipal.h
+
+1524149646 source:c:\users\hugo\desktop\projectoteatro beta 13.1.1\main.cpp
+	"liga.h"
+
+1525373876 c:\users\hugo\desktop\projectoteatro beta 13.1.1\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525398678 c:\users\hugo\desktop\projectoteatro beta 13.1.1\funcoes.h
+
+1525314282 c:\users\hugo\desktop\projectoteatro beta 13.1.1\menuprincipal.h
+
+1524146046 source:c:\users\userpl135pc14\desktop\projectoteatro beta 13.1.2\main.cpp
+	"liga.h"
+
+1525452155 c:\users\userpl135pc14\desktop\projectoteatro beta 13.1.2\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525458813 c:\users\userpl135pc14\desktop\projectoteatro beta 13.1.2\funcoes.h
+
+1525310682 c:\users\userpl135pc14\desktop\projectoteatro beta 13.1.2\menuprincipal.h
+
+1524149646 source:c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 14\main.cpp
+	"liga.h"
+
+1525455756 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 14\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525463114 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 14\funcoes.h
+
+1525464202 c:\users\saras\google drive\c++\projecto teatro cmais\projectoteatro beta 14\menuprincipal.h
+
+1524149646 source:c:\users\hugo\desktop\projectoteatro beta 15\main.cpp
+	"liga.h"
+
+1525496673 c:\users\hugo\desktop\projectoteatro beta 15\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525497691 c:\users\hugo\desktop\projectoteatro beta 15\funcoes.h
+
+1525464202 c:\users\hugo\desktop\projectoteatro beta 15\menuprincipal.h
+
+1524149646 source:c:\users\saras\downloads\projectoteatro_beta_15.1\projectoteatro beta 15.1\main.cpp
+	"liga.h"
+
+1525496673 c:\users\saras\downloads\projectoteatro_beta_15.1\projectoteatro beta 15.1\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525635958 c:\users\saras\downloads\projectoteatro_beta_15.1\projectoteatro beta 15.1\funcoes.h
+
+1525635571 c:\users\saras\downloads\projectoteatro_beta_15.1\projectoteatro beta 15.1\menuprincipal.h
+
+1524149646 source:c:\users\saras\downloads\projectoteatro_beta_15.1\projecto_gestao_companhia_teatro_vfinal\main.cpp
+	"liga.h"
+
+1525496673 c:\users\saras\downloads\projectoteatro_beta_15.1\projecto_gestao_companhia_teatro_vfinal\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525635958 c:\users\saras\downloads\projectoteatro_beta_15.1\projecto_gestao_companhia_teatro_vfinal\funcoes.h
+
+1525635571 c:\users\saras\downloads\projectoteatro_beta_15.1\projecto_gestao_companhia_teatro_vfinal\menuprincipal.h
+
+1524146046 source:c:\users\saras\desktop\projecto_gestao_companhia_teatro_vfinal\projecto_gestao_companhia_teatro_vfinal\main.cpp
+	"liga.h"
+
+1525493073 c:\users\saras\desktop\projecto_gestao_companhia_teatro_vfinal\projecto_gestao_companhia_teatro_vfinal\liga.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<cmath>
+	<ctime>
+	"funcoes.h"
+	"menuprincipal.h"
+
+1525632358 c:\users\saras\desktop\projecto_gestao_companhia_teatro_vfinal\projecto_gestao_companhia_teatro_vfinal\funcoes.h
+
+1541823974 c:\users\saras\desktop\projecto_gestao_companhia_teatro_vfinal\projecto_gestao_companhia_teatro_vfinal\menuprincipal.h
+

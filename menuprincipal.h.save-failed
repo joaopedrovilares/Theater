@@ -1,0 +1,184 @@
+
+void menuprincipal(){
+
+int proc;
+int idtemp;                                 //variavel temporaria
+int empcont;                //contador de actores empregados num espetaculo
+int quantosactores;                   //
+int cont_act=0;//contador actores
+int opc2=0;
+char nomep[30];
+Companhia c[50];                          // c nome da variavel
+Companhia historico[50];              // para ter um duplicado que nunca se apaga da struct principal, para poder haver um historico
+int a=0;                                        //Contador global da Struct "c" a actual
+int contespetaculos;                     //Contador global espetaculos
+Espetaculo e[50]  ;                         //
+int conthis=0;                               //Contador global do Historico
+char *ptr;
+
+FILE *arq;
+FILE *arq2;
+FILE *arq3;
+FILE *arq4;
+
+  if( (arq=fopen("registo.dat","rb") )!= NULL)   //PARA LER DO FICHEIRO QUE GUARDOU TUDO
+            {
+         fread(&c, sizeof(c),1,arq);      //e nome da variavel do tipo struct companhia
+         fclose(arq);
+
+            }
+
+
+	    if((arq3=fopen("historico.dat","rb"))!= NULL)   //PARA LER DO FICHEIRO QUE GUARDOU TUDO
+            {
+         fread(&historico, sizeof(historico),1,arq3);
+         fclose(arq3);
+
+            }
+     if((arq4=fopen("conthis.dat", "rb"))!= NULL)   //PARA LER DO FICHEIRO QUE GUARDOU TUDO
+            {
+         fread(&conthis, sizeof(conthis),1,arq4);
+         fclose(arq4);
+
+            }
+
+
+    if((arq2=fopen("Contador.dat", "rb"))!= NULL)   //PARA LER DO FICHEIRO o CONTADOR a
+        {
+         fread(&a, sizeof(a),1,arq2);
+         fclose(arq2);
+
+        }
+
+		do{
+			cout<<"---------------------Bem Vindo:--------------------------------------------------------  "<<endl;
+			cout<<"---------------------Companhia de Teatro os Chumbados--------------"<<endl;
+
+
+			cout << "1) - Inserir novo Actor "<<endl;
+			cout << "2) - Listar Actores "<< endl;
+			cout << "3) - Agendar Espetaculos "<<endl;
+			cout << "4) - Listar Espetaculos "<<endl;
+			cout << "5) - Apagar "<<endl;
+			cout << "6) - Sair "<<endl;
+			cout << "A sua opcao: ";
+            cin>>opc2;
+
+				switch(opc2){
+
+
+					case 1:
+
+
+                        cout<<endl<<"---------Inserir novo Actor---------"<<endl;
+                        inseriractor(&c[a],a);                      //companhia c
+                        historico[conthis]=c[a-1];
+                        a++;
+                        conthis++;
+                        //cont_act++;
+                        break;
+
+					case 2:
+
+                        cout<<endl<<"-----------Lista de Actores-----------"<<endl;
+                        listaractor(&c[0],a);
+
+                        break;
+
+					case 3:
+					    cout << "-------------------------Agendar Espetaculo----------- "<<endl;
+						inserirespetaculo(&e[contespetaculos], &contespetaculos);
+						cout<<"quantos actores?"<<endl;
+						cin>>quantosactores;
+                        listaractor(&c[0],a);
+                        for(int v=0; v<quantosactores; v++)
+                            {
+
+                            cout<<"Escolha o numero do actor desejado ";
+                            cin>>idtemp;
+                            int proc = procurar(&c[0],a,idtemp);
+
+                            if(proc >=0)
+                                {
+                                    cout<<"oi"<<endl;
+                               // e[contespetaculos].empregados[v].num_act;
+
+                                }
+                                else
+                                {
+                                cout<<"Ator n existe"<<endl;
+                                v--;
+                                }
+
+                          }
+
+                        contespetaculos++;
+
+                        break;
+
+					case 4:
+
+						cout<<"---------------Listar Espetaculos--------"<<endl;
+						listarespetaculo(&e[0],contespetaculos, quantosactores);
+
+                        break;
+
+
+					case 5:
+
+                        cout<<"-----------------Apagar--------------"<<endl;
+                       // apagar();
+
+
+                if((arq=fopen( "registo.dat", "wb" ))!= NULL)
+                    {
+                        fwrite(&c,sizeof(c) ,1,arq);
+                        fclose(arq);
+				    }
+                else
+                    {
+                      cout<<"Erro"<<endl;
+                    }
+
+
+			 if((arq2=fopen( "Contador.dat", "wb" ))!= NULL)
+                {   												                //Para Gravar contador
+                    fwrite(&a,sizeof(a) ,1,arq2);
+                    fclose(arq2);
+                }
+            else
+                {
+                cout<<"Erro"<<endl;
+                }
+
+
+            if((arq3=fopen("historico.dat", "wb"))!= NULL)
+                {
+                fwrite(&historico, sizeof(historico),1,arq3);
+                fclose(arq3);
+                }
+
+    		 if((arq4=fopen("conthis.dat", "wb"))!= NULL)
+                {
+                fwrite(&conthis, sizeof(conthis),1,arq4);
+                fclose(arq4);
+                }
+            else
+                {
+                cout<<"Erro"<<endl;
+                }
+
+
+			system ("CLS");
+			cout <<".Gravado..bye...!"<<endl;
+			break;
+
+            }
+
+
+	}while(opc2!=6);
+
+
+
+}
+
